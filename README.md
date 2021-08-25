@@ -6,9 +6,9 @@ Müşterilerin satın alma alışkanlıkları üzerinden gruplara ayırılması 
 
 Recency  Frequency  Monetary  kavramlarının baş harflerinden adlandırılmıştır.
 
-Recency : Müşterinin son aksiyonu üzerinden geçen zamanı ifade eder.
-Frequanecy : Müşterinin aksiyon alma sıklığını ifade eder.
-Monetary : Parasal büyüklük
+* Recency : Müşterinin son aksiyonu üzerinden geçen zamanı ifade eder.
+* Frequanecy : Müşterinin aksiyon alma sıklığını ifade eder.
+* Monetary : Parasal büyüklük
 
 Müşteriler R F M adlı metriklerde skorlandırılır. Skorlandırılırken Recency değeri en küçük olan en yüksek skoru alırken Frequency ve Monetary değeri en büyük olan
 en yüksek skoru alır.
